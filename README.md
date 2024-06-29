@@ -1,4 +1,4 @@
-# Deep Learning Projects
+# Neural Network Projects
 
 ## Project 1: Predicting Customer Churn using Feed-Forward Neural Networks
 
